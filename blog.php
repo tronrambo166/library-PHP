@@ -1,0 +1,1 @@
+<h1 class="display-1 font-italic text-center">Blog hasn't published yet !</h1>
